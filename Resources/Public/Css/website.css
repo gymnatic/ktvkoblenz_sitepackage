@@ -1,0 +1,22 @@
+a {
+	text-decoration: none;
+}
+
+#page-content #c3.frame, #page-content #c3.frame .frame-container {
+	padding: 0;
+}
+
+#page-footer .gallery-item img, #page-footer .gallery-item picture {
+	width: auto;
+    height: 3.7rem;
+}
+
+#page-content figure img, #page-content figure picture {
+	display: unset;
+}
+
+.news .img-fluid {
+	max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
